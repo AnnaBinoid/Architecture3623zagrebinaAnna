@@ -3,5 +3,4 @@
 Задание 1. На основе Диаграмы классов ModelElements, разработать классы: 
 Model Store, PoligonalModel (Texture, Poligon), Flash, Camera, Scene
 
-![alt text](C:/Users/User/IdeaProjects/Architecture3623zagrebinaAnna)
-
+![alt text](https://github.com/AnnaBinoid/Architecture3623zagrebinaAnna/blob/master/схема.jpg)
